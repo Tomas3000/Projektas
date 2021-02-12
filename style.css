@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     border-radius: 10px;
-    
+   
     
    
 }
@@ -13,10 +13,14 @@ body {
     height: 100%;
     margin: auto;
     font-family: monospace sans-serif;
-    
-    
+    background-color: rgb(241, 240, 240);
     
 }
+
+.wraper {
+  background-color: rgb(255, 255, 255);
+}
+
 
 
 .mobile-container {
@@ -125,6 +129,7 @@ main {
  justify-content: space-evenly;
   margin-bottom: 15px;
   align-items: center;
+  background-color: rgb(245, 233, 242);
 }
 
 .centras{
@@ -215,7 +220,7 @@ footer>p {
 footer {
     margin-top: 10px;
     width: 100%;
-    background-color:  #F1F1F5;
+    background-color:  #cfcfdd;
     margin-bottom: 10px;
     height: auto;
     
